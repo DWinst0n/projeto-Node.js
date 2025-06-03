@@ -1,0 +1,14 @@
+{
+	"name": "projeto-node",
+	"version": "1.0.0",
+	"main": "index.js",
+	"scripts": {
+		"test": "start"
+	},
+	"author": "Davi Winston",
+	"license": "ISC",
+	"description": "",
+	"devDependencies": {
+		"eslint": "^9.28.0"
+	}
+}

@@ -3,12 +3,16 @@
 	"version": "1.0.0",
 	"main": "index.js",
 	"scripts": {
-		"test": "start"
+		"start": "node src/index.js arquivos/texto-web.txt",
+		"start2": "node src/index.js arquivos/texto-kanban.txt",
+		"start3": "node src/index.js arquivos/texto-aprendizado"
 	},
 	"author": "Davi Winston",
 	"license": "ISC",
 	"description": "",
 	"devDependencies": {
-		"eslint": "^9.28.0"
+		"@eslint/js": "^9.29.0",
+		"eslint": "^9.29.0",
+		"globals": "^16.2.0"
 	}
 }

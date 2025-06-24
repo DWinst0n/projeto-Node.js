@@ -1,0 +1,125 @@
+Texto:
+A Importância de Acordar Cedo pela Manhã Bem Cedo no Início do Dia Logo ao Acordar
+Acordar cedo pela manhã é uma prática que muitas pessoas adotam para começar o dia bem, para começar o dia de maneira positiva, de forma positiva e com energia positiva. 
+Quando você acorda cedo, você acorda com antecedência, você acorda antes dos outros, você desperta com tempo, com tempo livre, com tempo suficiente para fazer as coisas, para realizar as atividades, para concluir as tarefas do dia que está começando, que está se iniciando, que está no início.
+Levantar cedo logo cedo tem muitos benefícios, muitos pontos positivos, muitas vantagens. Uma das vantagens, um dos pontos positivos, um dos benefícios é a tranquilidade, a calma, a paz, o sossego. De manhã cedo tudo é mais calmo, mais sossegado, mais tranquilo. 
+A cidade está silenciosa, silenciosa e quieta, com pouco barulho, pouco ruído, poucos sons. Esse silêncio, essa calma, essa paz ajudam a mente, ajudam o cérebro, ajudam o pensamento a funcionar melhor, com mais clareza, mais nitidez, mais foco.
+Além disso, acordar cedo também ajuda a ter mais tempo, mais horas, mais momentos disponíveis durante o dia. Com mais tempo, mais horas, mais momentos, você consegue fazer mais coisas, realizar mais tarefas, cumprir mais compromissos. A produtividade aumenta, melhora, cresce. 
+Você se sente mais produtivo, mais ativo, mais disposto. A sensação de produtividade, de estar sendo produtivo, de estar produzindo, de estar fazendo algo útil é muito boa, muito agradável, muito recompensadora.
+Muitas pessoas bem-sucedidas, pessoas de sucesso, pessoas que alcançaram grandes coisas, coisas importantes, coisas significativas, relatam que acordam cedo, que levantam cedo, que despertam cedo. Isso mostra, isso indica, isso comprova que acordar cedo pode ser um hábito poderoso, um costume eficaz, uma prática eficiente.
+No entanto, é importante lembrar, é importante reforçar, é importante destacar que acordar cedo não é fácil, não é simples, não é trivial. Requer disciplina, requer esforço, requer força de vontade. 
+É necessário dormir cedo, ir para a cama cedo, deitar-se cedo. Sem dormir cedo, acordar cedo se torna difícil, complicado, cansativo. O corpo precisa de descanso, de sono, de repouso. Sem descanso, sem sono, sem repouso, acordar cedo se torna uma tortura, um martírio, um sofrimento.
+Portanto, se você quer acordar cedo, se você deseja acordar cedo, se você tem o objetivo de acordar cedo, é importante se planejar, se preparar, se organizar. Comece indo para a cama mais cedo, diminuindo o uso do celular, do computador, da televisão. Crie um ambiente calmo, silencioso, tranquilo para dormir. E assim, aos poucos, com paciência, com persistência, com constância, você vai conseguir, vai alcançar, vai conquistar o hábito de acordar cedo, de despertar cedo, de levantar cedo.
+
+Palavras repetidas em suas respectivas linhas:
+
+linha 1 - "A Importância de Acordar Cedo pela Manhã Bem Cedo no Início do Dia Logo ao Acordar"
+{
+  "cedo": 2
+}
+
+linha 2 - "Acordar cedo pela manhã é uma prática que muitas pessoas adotam para começar o dia bem, para começar o dia de maneira positiva, de forma positiva e com energia positiva. "
+{
+  "para": 2,
+  "começar": 2,
+  "dia": 2,
+  "de": 2,
+  "positiva": 3
+}
+
+linha 3 - "Quando você acorda cedo, você acorda com antecedência, você acorda antes dos outros, você desperta com tempo, com tempo livre, com tempo suficiente para fazer as coisas, para realizar as atividades, para concluir as tarefas do dia que está começando, que está se iniciando, que está no início."
+{
+  "você": 4,
+  "acorda": 3,
+  "com": 4,
+  "tempo": 3,
+  "para": 3,
+  "as": 3,
+  "que": 3,
+  "está": 3
+}
+
+linha 4 - "Levantar cedo logo cedo tem muitos benefícios, muitos pontos positivos, muitas vantagens. Uma das vantagens, um dos pontos positivos, um dos benefícios é a tranquilidade, a calma, a paz, o sossego. De manhã cedo tudo é mais calmo, mais sossegado, mais tranquilo. "
+{
+  "cedo": 3,
+  "muitos": 2,
+  "benefícios": 2,
+  "pontos": 2,
+  "positivos": 2,
+  "vantagens": 2,
+  "um": 2,
+  "dos": 2,
+  "mais": 3
+}
+
+linha 5 - "A cidade está silenciosa, silenciosa e quieta, com pouco barulho, pouco ruído, poucos sons. Esse silêncio, essa calma, essa paz ajudam a mente, ajudam o cérebro, ajudam o pensamento a funcionar melhor, com mais clareza, mais nitidez, mais foco."
+{
+  "silenciosa": 2,
+  "com": 2,
+  "pouco": 2,
+  "essa": 2,
+  "ajudam": 3,
+  "mais": 3
+}
+
+linha 6 - "Além disso, acordar cedo também ajuda a ter mais tempo, mais horas, mais momentos disponíveis durante o dia. Com mais tempo, mais horas, mais momentos, você consegue fazer mais coisas, realizar mais tarefas, cumprir mais compromissos. A produtividade aumenta, melhora, cresce. "
+{
+  "mais": 9,
+  "tempo": 2,
+  "horas": 2,
+  "momentos": 2
+}
+
+linha 7 - "Você se sente mais produtivo, mais ativo, mais disposto. A sensação de produtividade, de estar sendo produtivo, de estar produzindo, de estar fazendo algo útil é muito boa, muito agradável, muito recompensadora."
+{
+  "mais": 3,
+  "produtivo": 2,
+  "de": 4,
+  "estar": 3,
+  "muito": 3
+}
+
+linha 8 - "Muitas pessoas bem-sucedidas, pessoas de sucesso, pessoas que alcançaram grandes coisas, coisas importantes, coisas significativas, relatam que acordam cedo, que levantam cedo, que despertam cedo. Isso mostra, isso indica, isso comprova que acordar cedo pode ser um hábito poderoso, um costume eficaz, uma prática eficiente."
+{
+  "pessoas": 3,
+  "que": 5,
+  "coisas": 3,
+  "cedo": 4,
+  "isso": 3,
+  "um": 2
+}
+
+linha 9 - "No entanto, é importante lembrar, é importante reforçar, é importante destacar que acordar cedo não é fácil, não é simples, não é trivial. Requer disciplina, requer esforço, requer força de vontade. "
+{
+  "importante": 3,
+  "não": 3,
+  "requer": 3
+}
+
+linha 10 - "É necessário dormir cedo, ir para a cama cedo, deitar-se cedo. Sem dormir cedo, acordar cedo se torna difícil, complicado, cansativo. O corpo precisa de descanso, de sono, de repouso. Sem descanso, sem sono, sem repouso, acordar cedo se torna uma tortura, um martírio, um sofrimento."
+{
+  "dormir": 2,
+  "cedo": 6,
+  "sem": 4,
+  "acordar": 2,
+  "se": 2,
+  "torna": 2,
+  "de": 3,
+  "descanso": 2,
+  "sono": 2,
+  "repouso": 2,
+  "um": 2
+}
+
+linha 11 - "Portanto, se você quer acordar cedo, se você deseja acordar cedo, se você tem o objetivo de acordar cedo, é importante se planejar, se preparar, se organizar. Comece indo para a cama mais cedo, diminuindo o uso do celular, do computador, da televisão. Crie um ambiente calmo, silencioso, tranquilo para dormir. E assim, aos poucos, com paciência, com persistência, com constância, você vai conseguir, vai alcançar, vai conquistar o hábito de acordar cedo, de despertar cedo, de levantar cedo."
+{
+  "se": 6,
+  "você": 4,
+  "acordar": 4,
+  "cedo": 7,
+  "de": 4,
+  "para": 2,
+  "do": 2,
+  "com": 3,
+  "vai": 3
+}

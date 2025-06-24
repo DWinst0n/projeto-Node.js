@@ -1,4 +1,4 @@
-import verificarRedundancia from "./ManipulaTexto.js";
+import verificarRedundancia from "./manipulaTexto.js";
 import fs from "fs";
 import path from "path";
 import tratarErro from "./erros.js";

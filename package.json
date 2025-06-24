@@ -7,7 +7,8 @@
 		"start": "node src/index.js arquivos/texto-web.txt",
 		"start2": "node src/index.js arquivos/texto-kanban.txt",
 		"start3": "node src/index.js arquivos/texto-aprendizado.txt",
-		"startsAll": "node src/index.js arquivos",
+		"start4": "node src/index.js arquivos/textoRepetitivo.txt",
+		"startAll": "node src/index.js arquivos",
 		"erroTeste": "node src/index.js arquivoOuPastaQueNaoExiste"
 	},
 	"author": "Davi Winston",
